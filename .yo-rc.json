@@ -42,7 +42,9 @@
     "jwtSecretKey": "YzM5MmMwMWY4MDBjMjY3Y2M3N2VhMWNlMDY2NmNhYzJiNWRiNzI5MjY5YmVjOTI5ZjY0OTQ2ZTBlNTE2MjRkOTkxMjE5YjBkNTZhYjVhNTUwYzMyMDk5ODE2ZTE2Y2I1YWI0YjllZDYwMzBjYzJjZWZmZTQ3YjRiODU4YzMzMTk=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "lastLiquibaseTimestamp": 1622042139000
   },
   "git-provider": "GitHub",
   "git-company": "Nada199613",
